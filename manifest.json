@@ -2,13 +2,13 @@
   "header": {
     "name": "My First Pack",
     "version": [1, 0, 0],
-    "uuid": "<FIRST GENERATED UUID>"
+    "uuid": "3c44d012-071e-4a0b-9366-d7b71168b74d"
   },
   "modules": [
     {
       "version": [1, 0, 0],
       "type": "skin_pack",
-      "uuid": "<SECOND GENERATED UUID>"
+      "uuid": "f5cf6972-8e1f-4c89-980e-65d249274c68"
     }
   ],
   "format_version": 1
