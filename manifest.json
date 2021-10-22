@@ -1,0 +1,15 @@
+{
+  "header": {
+    "name": "My First Pack",
+    "version": [1, 0, 0],
+    "uuid": "<FIRST GENERATED UUID>"
+  },
+  "modules": [
+    {
+      "version": [1, 0, 0],
+      "type": "skin_pack",
+      "uuid": "<SECOND GENERATED UUID>"
+    }
+  ],
+  "format_version": 1
+}
